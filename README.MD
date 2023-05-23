@@ -12,3 +12,7 @@ Este repositório contém o código-fonte e materiais relacionados ao curso Tril
 - [Banco de Dados](./banco-de-dados) -->
 
 Cada módulo possui uma pasta correspondente neste repositório, contendo os materiais, códigos-fonte e exercícios relacionados a ele. Você pode acessar cada módulo clicando nos respectivos links acima.
+
+## Recursos Adicionais
+
+Além das pastas dos módulos, você também encontrará neste repositório outros recursos úteis, como documentação, exemplos e referências relacionadas ao curso.
