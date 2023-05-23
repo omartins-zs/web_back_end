@@ -65,3 +65,8 @@ Aqui estão alguns comandos úteis do Git:
 - `git branch`
 - `git checkout`
 - `git merge`
+
+
+## 📑Referência
+
+ - [Git x GitHub](https://matheusduzzi.medium.com/git-x-github-3c6c37acee8b)
