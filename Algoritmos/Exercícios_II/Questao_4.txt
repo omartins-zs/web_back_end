@@ -1,0 +1,49 @@
+Questão 4 
+
+ESCREVA "--- Moisés, bem-vindo ao App Ada Poupança ---"
+
+INTEIRO i
+REAL valor, saldo, poupanca
+
+saldo <- 1000.00
+poupanca <- 500.00
+i <- 0
+
+ENQUANTO i != 3 FAÇA
+    ESCREVA "Digite 1 para APLICAR, 2 para RESGATAR e 3 para SAIR: "
+    LEIA i
+    SE i == 1 ENTAO FAÇA
+        ESCREVA "Valor da aplicação: "
+        LEIA valor
+        SE valor > saldo ENTAO FAÇA
+            ESCREVA "Saldo de conta corrente insuficiente"
+        SENAO FAÇA
+            saldo <- saldo - valor
+            poupanca <- poupanca + valor
+            ESCREVA "Aplicação realizada com sucesso"
+        FIM_SE
+    SENAO FAÇA
+        SE i == 2 FACA
+            ESCREVA "Valor do resgate: "
+            LEIA valor
+            SE valor > poupanca ENTAO FAÇA
+                ESCREVA "Saldo de poupança insuficiente"
+            SENAO FAÇA
+                saldo <- saldo + valor
+                poupanca <- poupanca - valor
+                ESCREVA "Resgate realizado com sucesso"
+            FIM_SE
+        SENAO
+            ESCREVA "Até logo!"
+        FIM_SE
+    FIM_SE
+FIM_ENQUANTO
+
+Pergunta: Utilizando o programa acima, Moisés realizou um resgate seguido de uma aplicação. Seguem as mensagens mostradas na tela ao final da execução do programa, inclusive os valores informados por Moisés.
+
+--- Moisés, bem-vindo ao App Ada Poupança --- Digite 1 para APLICAR, 2 para RESGATAR e 3 para SAIR: 2 Valor do resgate: X Resgate realizado com sucesso Digite 1 para APLICAR, 2 para RESGATAR e 3 para SAIR: 1 Valor da aplicação: Y Saldo de conta corrente insuficiente Digite 1 para APLICAR, 2 para RESGATAR e 3 para SAIR: 3 Até logo!
+
+Quais foram os valores X e Y digitados por Moisés, respectivamente? Se necessário, utilize os comandos definidos nas questões anteriores.
+
+
+Resposta: 300 e 1500

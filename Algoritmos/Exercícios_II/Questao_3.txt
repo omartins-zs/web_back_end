@@ -1,0 +1,17 @@
+Questão 3 
+
+A <- 30
+B <- 20
+C <- A + B
+ESCREVA C
+B <- 10
+ESCREVA B, C
+C <- A + B
+ESCREVA A, B, C
+
+Pergunta: Ao executar este código, o que será impresso na tela?
+
+
+Resposta: 50
+        10 50
+        30 10 40

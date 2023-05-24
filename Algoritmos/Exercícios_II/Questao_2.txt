@@ -1,0 +1,10 @@
+Questão 2
+
+Pergunta:O código de um programa para cadastro de alunos da Let's Code realiza a seguinte validação das variáveis Nome e CPF:
+
+SE(Nome não é vazio E CPF não é vazio) CONTINUE
+
+Essa validação avalia um dos percursos possíveis, no qual os dados foram preenchidos corretamente e com isso faz com que o sistema continue. Se a validação fosse programada para avaliar o preenchimento incorreto dos dados, qual das seguintes expressões seria utilizada?
+
+
+Resposta: SE(Nome é vazio OU CPF é vazio) PARE
