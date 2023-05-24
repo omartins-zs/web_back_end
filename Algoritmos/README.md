@@ -38,3 +38,14 @@
 4. **Listas/arrays :**
 
    - Para armazenar conjuntos de valores relacionados
+
+5. **Dicas para Montar Algoritmos :**
+
+   - Documente o algoritmo
+   - Mantenha a simplicidade e a clareza
+   - Utilize pseudocódigo
+   - Evite repetições desnecessárias
+   - Teste e depure o algoritmo
+   - Aprenda com exemplos e pratique
+   - Otimize quando necessário
+   - Faça revisões e melhorias
