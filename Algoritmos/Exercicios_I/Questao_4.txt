@@ -1,0 +1,26 @@
+Questão 4 
+
+INTEIRO x, i, t, e
+REAL a
+
+ESCREVA "Digite um número: "
+LEIA x
+
+i <- 0
+t <- 0
+
+ENQUANTO i < x FAÇA
+    ESCREVA "Digite um número: "
+    LEIA e
+    t <- t + e
+    i <- i + 1
+FIM_ENQUANTO
+
+a <- t/x
+
+ESCREVA i, a
+
+Pergunta: Ao executar o programa acima, qual será a última linha impressa na tela se os valores digitados pelo usuário forem, nessa ordem: 5, 3, 4, 5, 4, 5? Se necessário, utilize os comandos apresentados nas questões anteriores
+
+
+Resposta: 5 4.2
