@@ -1,0 +1,22 @@
+Questão 3 
+
+INTEIRO x1, x2
+REAL res
+
+ESCREVA "digite um número positivo"
+LEIA x1
+ESCREVA "digite outro número positivo"
+LEIA x2
+
+SE (x1 > x2) ENTAO FAÇA
+    res <- (x1-x2)/x1
+SENAO FAÇA
+    res <- (x2-x1)/x2
+FIM_SE
+
+ESCREVA res
+
+Pergunta: Qual alternativa representa corretamente a última linha impressa pelo programa para os seguintes pares de valores [n1, n2], respectivamente: [3, 12], [5, 5], [10, 8]. Se necessário, utilize os comandos definidos nas questões anteriores.
+
+
+Resposta: 0.75, 0.0, 0.2
