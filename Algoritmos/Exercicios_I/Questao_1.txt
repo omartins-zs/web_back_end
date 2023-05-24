@@ -1,0 +1,16 @@
+Questão 1
+
+REAL a, b
+
+ESCREVA "digite um número: "
+LEIA a
+ESCREVA "digite um número: "
+LEIA b
+ESCREVA "a * b = ", a * b
+
+
+Resposta: > digite um número:
+          > 50
+          > digite um número:
+          > 2
+          > a * b = 100
