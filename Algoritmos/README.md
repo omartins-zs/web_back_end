@@ -14,3 +14,27 @@
 10. Desempenho de Algoritmos
 11. Dicas para Montar Algoritmos
 12. Exercício II
+
+### Aprendizados
+
+1. **Tipos de dados:**
+
+- Numericos e Float
+  - String (Texto)
+  - Booleano (True or False)
+  - Variáveis (var, let e const)
+
+2. **Estruturas de decisão :**
+
+   - IF
+   - ELSE
+   - ELSE IF
+
+3. **Estruturas de repetição :**
+
+   - For
+   - While
+
+4. **Listas/arrays :**
+
+   - Para armazenar conjuntos de valores relacionados
