@@ -1,0 +1,25 @@
+Questão 2
+
+bloco de codigo 
+CARACTER senha
+INTEIRO i
+
+ESCREVA "Para continuar, digite sua senha: "
+LEIA senha
+
+i <- 0
+
+ENQUANTO senha != "a6b5c4" FAÇA
+  ESCREVA "Senha inválida"
+  i <- i + 1
+  ESCREVA "Para continuar, digite sua senha: "
+  LEIA senha
+
+FIM_ENQUANTO
+
+ESCREVA "Seja bem-vindo(a) à área do cliente"
+
+Pergunta: Márcia, uma cliente, utiliza o programa acima para acessar a área do cliente e, após 7 tentativas de digitar a senha, visualiza a mensagem de boas vindas. Sabendo disso, qual é o valor armazenado em i ao final da execução do programa? Se necessário, utilize os comandos definidos na questão anterior.
+
+
+Resposta: 6
