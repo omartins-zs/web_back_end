@@ -14,3 +14,12 @@
 10.Segurança
 11.Wireless
 12.Exercicios II
+
+### Aprendizados
+
+1. **Redes e Sistemas:**
+
+  - Origem das redes(Darpa e Darpanet)
+  - Primeiras Empresas
+  - Certificações
+  
