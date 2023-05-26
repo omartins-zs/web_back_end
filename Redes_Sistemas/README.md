@@ -84,3 +84,9 @@
    -Cisco Packet Tracer 
    - Redes e IP
    - Configuração em Fluxograma
+
+   
+## 📑Referencias e Auxiliares
+
+ - [Calculadora de sub-redes para IPv4](https://www.site24x7.com/pt/tools/ipv4-sub-rede-calculadora.html)
+ - [Cisco Packet Tracer](https://www.netacad.com/pt-br/courses/packet-tracer)
