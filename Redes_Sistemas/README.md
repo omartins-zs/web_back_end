@@ -66,14 +66,14 @@
 
 9. **Comandos:**
 
-ipconfig -> Mostra as Configuraçoes de rede
-cls -> Limpa o terminal
-ipconfig /flushdns -> Limpa o cache do DNS
-ping -> Protocolo ICMP
-nslockup -> Mostra se ouve uma resposta do PING
-tracert -> Mostra por quantos roteadores passei ate chegar no site
-route print -> Rotas de IP
-netstate -> Mapeia e mostra quais portas estâo sendo utilizadas no IP
+- `ipconfig`: Mostra as Configuraçoes de rede
+- `cls`: Limpa o terminal
+- `ipconfig /flushdns`: Inicia um novo repositório Git.
+- `ping`: Protocolo ICMP(Teste entre conexões)
+- `nslockup`: Mostra se ouve uma resposta do PING
+- `route print`: Rotas de IP
+- `tracert`: Mostra por quantos roteadores passei ate chegar no site
+- `netstate`: Mapeia e mostra quais portas estâo sendo utilizadas no IP
 
 10. **Segurança:**
    -Ataques
