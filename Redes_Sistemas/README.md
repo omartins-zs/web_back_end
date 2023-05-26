@@ -79,3 +79,8 @@ netstate -> Mapeia e mostra quais portas estâo sendo utilizadas no IP
    -Ataques
    -Backup
    -DDOS, DOS, Ransomware, Sql Injection
+
+11. **Wireless:**
+   -Cisco Packet Tracer 
+   - Redes e IP
+   - Configuração em Fluxograma
