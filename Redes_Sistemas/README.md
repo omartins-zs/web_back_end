@@ -19,7 +19,14 @@
 
 1. **Redes e Sistemas:**
 
-  - Origem das redes(Darpa e Darpanet)
-  - Primeiras Empresas
-  - Certificações
-  
+- Origem das redes(Darpa e Darpanet)
+- Primeiras Empresas
+- Certificações
+
+2. **Infraestrutura de redes e os principais equipamentos:**
+
+- NIC ->(Network Interface Card) Placa de Rede | Endereço Fisico e Logico
+- HUB -> Conexão entre dispositivos conectados
+- Switch -> Conexões entre dispositivos
+- Roteador -> Procurar melhor rota de Internet para melhor entrega dos dados
+- Modem -> Responsavel para Modular o sinal de Internet
