@@ -74,3 +74,8 @@ nslockup -> Mostra se ouve uma resposta do PING
 tracert -> Mostra por quantos roteadores passei ate chegar no site
 route print -> Rotas de IP
 netstate -> Mapeia e mostra quais portas estâo sendo utilizadas no IP
+
+10. **Segurança:**
+   -Ataques
+   -Backup
+   -DDOS, DOS, Ransomware, Sql Injection
