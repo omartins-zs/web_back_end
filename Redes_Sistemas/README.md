@@ -39,10 +39,14 @@
    - Fibra Optica
    - Rack
 
-
 4. **Modelo OSI e TCP/IP:**
 
    - Trafego da Rede
-   - Protocolos  
-   
-    
+   - Protocolos
+
+5. **IPV4 e IPV6:**
+
+   - IP Internet Protocol
+   - IPV4 32 Bits dividido em 8 Octetos podendo variar em 0 a 255
+   - NAT Permiti a rede privada a usar todos o mesmo IP quando tem varios dispositivos
+   - IPV6 Formato de 128 Bits e divido em 16 pares
