@@ -6,8 +6,8 @@ Este repositório contém o código-fonte e materiais relacionados ao curso Tril
 
 - [Git e Versionamento](./Git_Versionamento)
 - [Algoritmos](./Algoritmos)
-<!-- - [Redes e Sistemas](./redes-e-sistemas)
-- [Introdução ao Java](./introducao-ao-java)
+- [Redes e Sistemas](./Redes_Sistemas)
+<!-- - [Introdução ao Java](./introducao-ao-java)
 - [Introdução à Programação Orientada a Objetos em Java](./introducao-a-poo-em-java)
 - [Banco de Dados](./banco-de-dados) -->
 
