@@ -38,3 +38,11 @@
    - Cabo Coxial
    - Fibra Optica
    - Rack
+
+
+4. **Modelo OSI e TCP/IP:**
+
+   - Trafego da Rede
+   - Protocolos  
+   
+    
