@@ -30,3 +30,11 @@
 - Switch -> Conexões entre dispositivos
 - Roteador -> Procurar melhor rota de Internet para melhor entrega dos dados
 - Modem -> Responsavel para Modular o sinal de Internet
+
+3. **Cabeamento Estruturado:**
+
+   - Normas
+   - Cabo Par Trançado(UTP e STP)
+   - Cabo Coxial
+   - Fibra Optica
+   - Rack
