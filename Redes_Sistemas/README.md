@@ -57,3 +57,10 @@
    -Range de IPs
    -Classe de Endereco de IP
    -Mascara de Rede
+
+8. **Domínios, DNS e latência:**
+
+   -Dominio Raiz 
+   -Latencia (Duração do Requisitos)
+   -.org, .com, .br, .net
+
