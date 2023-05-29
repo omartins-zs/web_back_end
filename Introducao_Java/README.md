@@ -43,3 +43,16 @@ Repositório com código-fonte, materiais do curso, conhecimentos e habilidades 
    - ELSE IF
    - SWITCH
    - SWITCH CASE
+
+6. **Manipulação de Strings e Datas:**
+
+   - Strings
+   - Datas
+   - Manipulação de Strings
+   - Manipulação de Datas
+   - Length
+   - toUpperCase
+   - toLowerCase
+   - Import Locale
+   - LocalDate
+   - Configuração de Data
