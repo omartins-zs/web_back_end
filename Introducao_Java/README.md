@@ -29,9 +29,17 @@ Repositório com código-fonte, materiais do curso, conhecimentos e habilidades 
    - JRE(Java Runtime Environment) -> Ambiente de Execução
    - JDK(Java Development KIT)
 
-3. **Operadores Booleanos | Tabela Verdade:**
+4. **Operadores Booleanos | Tabela Verdade:**
 
    - True or False
    - Operador Ternario
    - Tabela Verdade
    - AND e OR
+
+5. **Estruturas Condicionais:**
+
+   - IF
+   - ELSE
+   - ELSE IF
+   - SWITCH
+   - SWITCH CASE
