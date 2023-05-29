@@ -11,3 +11,13 @@ Repositório com código-fonte, materiais do curso, conhecimentos e habilidades 
 7. Laços Numéricos
 8. Vetores
 9. Funções
+
+### Aprendizados
+
+1. **Introdução ao Java:**
+
+- Desenvolvimento WEB
+- Front-End e Back-End
+- Desenvolvimento Mobile
+- Desenvolvimento Embarcado(Eletrodomesticos, SmartWatch e etc)
+- Conhecendo a IDE (IntelliJ)
