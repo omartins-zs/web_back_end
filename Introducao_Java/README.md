@@ -73,3 +73,8 @@ Repositório com código-fonte, materiais do curso, conhecimentos e habilidades 
    - Function
    - Paramentros
    - Function void
+
+10. **Comandos:**
+
+- `java -version` Mostra a versão do JAVA Instalada
+- `sout` -> Atalho para o 'System.out.println()'(Escreve na tela)
