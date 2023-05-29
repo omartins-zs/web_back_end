@@ -56,3 +56,8 @@ Repositório com código-fonte, materiais do curso, conhecimentos e habilidades 
    - Import Locale
    - LocalDate
    - Configuração de Data
+
+
+7. **Laços Numéricos:**
+
+   - For
