@@ -1,9 +1,11 @@
-<h1 align="center">Curso Trilha Digital | Web Back-End - Santander Coders 2023</h1>
+
+<h2 align="center"><img align="left" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg">Curso Trilha Digital | Web Back-End - Santander Coders 2023</h2>
+
 
 
  <div align="center">
 
-   <cite align="center">`Este repositório contém o código-fonte e materiais relacionados ao curso Trilha Digital | Web Back-End, oferecido pelo Santander Coders em 2023. O curso abrange diversos módulos que visam fornecer conhecimentos e habilidades fundamentais para o desenvolvimento web back-end`</cite>
+   <cite align="center">`Repositório com os código-fonte e materiais relacionados ao curso Trilha Digital | Web Back-End, oferecido pelo Santander Coders em 2023. O cursos com diversos módulos que visam fornecer conhecimentos e habilidades fundamentais para o desenvolvimento Web Back-End.`</cite>
 
 </div>
 
