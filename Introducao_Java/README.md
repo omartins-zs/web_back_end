@@ -28,3 +28,10 @@ Repositório com código-fonte, materiais do curso, conhecimentos e habilidades 
    - Configuração e Instalacão
    - JRE(Java Runtime Environment) -> Ambiente de Execução
    - JDK(Java Development KIT)
+
+3. **Operadores Booleanos | Tabela Verdade:**
+
+   - True or False
+   - Operador Ternario
+   - Tabela Verdade
+   - AND e OR
