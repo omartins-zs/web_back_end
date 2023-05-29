@@ -21,3 +21,10 @@ Repositório com código-fonte, materiais do curso, conhecimentos e habilidades 
 - Desenvolvimento Mobile
 - Desenvolvimento Embarcado(Eletrodomesticos, SmartWatch e etc)
 - Conhecendo a IDE (IntelliJ)
+
+2. **Setup:**
+
+   - Linguagem Compilada
+   - Configuração e Instalacão
+   - JRE(Java Runtime Environment) -> Ambiente de Execução
+   - JDK(Java Development KIT)
