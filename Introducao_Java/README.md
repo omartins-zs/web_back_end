@@ -78,3 +78,8 @@ Repositório com código-fonte, materiais do curso, conhecimentos e habilidades 
 
 - `java -version` Mostra a versão do JAVA Instalada
 - `sout` -> Atalho para o 'System.out.println()'(Escreve na tela)
+
+## 📑Referencias e Auxiliares
+
+- [Download Java](https://www.oracle.com/br/java/technologies/downloads/#java17)
+- [IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/download/#section=windows)
