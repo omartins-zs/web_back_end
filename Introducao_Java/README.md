@@ -68,3 +68,8 @@ Repositório com código-fonte, materiais do curso, conhecimentos e habilidades 
    - Arrays
    - Manipulação de Arrays
 
+9. **Funções:**
+
+   - Function
+   - Paramentros
+   - Function void
