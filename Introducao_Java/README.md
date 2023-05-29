@@ -61,3 +61,10 @@ Repositório com código-fonte, materiais do curso, conhecimentos e habilidades 
 7. **Laços Numéricos:**
 
    - For
+
+
+8. **Vetores:**
+
+   - Arrays
+   - Manipulação de Arrays
+
