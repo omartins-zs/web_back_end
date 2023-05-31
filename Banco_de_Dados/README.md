@@ -42,3 +42,11 @@
    - Relacionamentos
    - Tipos de Relacionamentos
    - Chave Primaria e Estrangeira
+
+5. **Normalização de dados:**
+
+   - Evitar redundancia
+   - Diminuir Tabelas
+   - Melhorar Organização
+   - Diminuir Espaço e Custo
+   - Normalização em Banco de Dados - Estrutura
