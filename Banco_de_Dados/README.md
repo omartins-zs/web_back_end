@@ -30,3 +30,9 @@
    - Date(Timestamp e date)
    - Booleano(True or False)
    - Documentação do PostgreSQL de Tipos de Dados
+
+3. **Modelagem de entidades:**
+
+- True or False
+- Ferramenta Online Visual Paradigm
+- Criar Diagrama de Relação de Entidades
