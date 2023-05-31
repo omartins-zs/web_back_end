@@ -22,3 +22,11 @@
 - SGBD(Sistema de gerenciamento de banco de dados)
 - PostgreSQL
 - Instalação PostgreSQL
+
+2. **Tipos de dados e custo de armazenamento:**
+
+   - Numericos(INT, REAL)
+   - Textos(Varchar e char)
+   - Date(Timestamp e date)
+   - Booleano(True or False)
+   - Documentação do PostgreSQL de Tipos de Dados
