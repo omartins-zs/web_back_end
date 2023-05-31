@@ -90,5 +90,5 @@
 ## 📑Referencias, Auxiliares e Dicas
 
 - [Documentation Data Types](https://www.postgresql.org/docs/14/datatype.html)
-- [Normalização em Banco de Dados - Estrutura](hhttps://www.alura.com.br/artigos/normalizacao-banco-de-dados-estrutura?gclid=Cj0KCQjw4NujBhC5ARIsAF4Iv6f1xv104LOCb4vidjB-3HJKLErw5xotgflssRui8lvjEI6j7laRD94aAk4dEALw_wcB)
+- [Normalização em Banco de Dados - Estrutura](https://www.alura.com.br/artigos/normalizacao-banco-de-dados-estrutura?gclid=Cj0KCQjw4NujBhC5ARIsAF4Iv6f1xv104LOCb4vidjB-3HJKLErw5xotgflssRui8lvjEI6j7laRD94aAk4dEALw_wcB)
 - Usar as ASPAS simples para Manipulação do Banco   
