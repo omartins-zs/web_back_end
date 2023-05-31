@@ -1,0 +1,1 @@
+CREATE index idx_nome on materias(nome_materia)
