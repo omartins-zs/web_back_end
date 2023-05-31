@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=CURSO&message=CONCLUÍDO&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=CURSO&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 <br>
 
