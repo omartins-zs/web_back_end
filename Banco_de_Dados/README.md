@@ -65,3 +65,9 @@
    - Inserindo um conjunto de dados
    - Importando dados do CSV
    - Usando Select e Copy
+
+9. **Editando e removendo dados:**
+
+   - Usando o UPDATE
+   - Usando o Delete
+   - Usar sempre o WHERE para Delete e Update   
