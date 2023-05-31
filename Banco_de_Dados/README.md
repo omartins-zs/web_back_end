@@ -71,3 +71,9 @@
    - Usando o UPDATE
    - Usando o Delete
    - Usar sempre o WHERE para Delete e Update   
+
+10. **Permissionamento e Views:**
+
+   - Controle de Acesso
+   - Criar e adicionar Permissões
+   - Criando View de SQL   
