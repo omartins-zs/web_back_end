@@ -14,3 +14,11 @@
 10. Permissionamento e Views
 11. Índices
 12. Exercícios II
+
+### Aprendizados
+
+1. **Introdução ao curso:**
+
+- SGBD(Sistema de gerenciamento de banco de dados)
+- PostgreSQL
+- Instalação PostgreSQL
