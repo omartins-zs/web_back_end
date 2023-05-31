@@ -50,3 +50,10 @@
    - Melhorar Organização
    - Diminuir Espaço e Custo
    - Normalização em Banco de Dados - Estrutura
+
+
+7. **Inserindo tabelas no banco:**
+
+   - Criando Tabela de Professores(Usando SQL (Query Tool))
+   - Criando Tabela de Materias(Usando Interface Grafica)
+   - Desafio Criar Tabela de Livros
