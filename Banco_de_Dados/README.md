@@ -57,3 +57,11 @@
    - Criando Tabela de Professores(Usando SQL (Query Tool))
    - Criando Tabela de Materias(Usando Interface Grafica)
    - Desafio Criar Tabela de Livros
+
+
+8. **Inserindo dados no banco:**
+
+   - Inserindo dados individuais
+   - Inserindo um conjunto de dados
+   - Importando dados do CSV
+   - Usando Select e Copy
