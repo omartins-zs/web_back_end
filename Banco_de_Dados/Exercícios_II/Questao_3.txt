@@ -1,0 +1,4 @@
+Questão 3 
+Considere a inserção de um registro que armazenará o nome de uma pessoa, sua idade e a data do cadastro. Neste caso, quais tipos de dados devem ser inseridos entre aspas?
+
+Resposta: nome e data de nascimento

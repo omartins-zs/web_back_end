@@ -1,0 +1,4 @@
+Questão 1
+O comando que se utiliza para criar tabelas no postgreSQL é?
+
+Resposta: CREATE TABLE

@@ -1,0 +1,4 @@
+Questão 7
+Um colega de equipe seu está com um problema, ele construiu alguns índices do tipo árvore binária em uma tabela com 100 registros, mas a diferença do tempo de consulta variou muito pouco. Ele está convencido de que cometeu algum erro na implementação. Você o tranquiliza, dizendo que:
+
+Resposta: Índices desse tipo reduzem consideravelmente o tempo de consulta, mas a melhora só é realmente significativa em tabelas com muitos registros.

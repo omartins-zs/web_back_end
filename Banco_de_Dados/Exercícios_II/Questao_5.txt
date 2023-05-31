@@ -1,0 +1,4 @@
+Questão 5
+Um erro no sistema de cadastros gerou diversos cadastros errôneos que precisam ser excluídos. Todos os cadastros errados foram feitos no dia 2023-01-10 e pode-se considerar que todos os dados deste dia apresentam erros. Assinale a alternativa que representa uma query para remover esses registros.
+
+Resposta: DELETE FROM cadastro WHERE data = ‘2023-01-10’

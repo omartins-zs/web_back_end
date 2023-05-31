@@ -1,0 +1,8 @@
+Questão 4 
+Ao editar uma linha com erro em uma tabela para alunos, você utilizou o comando abaixo para mudar o nome digitado errado de “Carlo” para “Carlos”.
+
+UPDATE alunos set nome = ‘Carlos’
+
+Após executar a query, você percebe que algo de errado aconteceu, o que houve?
+
+Resposta: Todos os alunos agora se chamam Carlos, pois faltou filtrar antes de editar.

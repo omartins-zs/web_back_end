@@ -1,0 +1,4 @@
+Questão 2
+Você vai cadastrar 5 produtos no catálogo de jogos em uma loja de games, para isso, pretende usar uma única query. Como você pode fazer isso?
+
+Resposta: Utilizar o comando INSERT INTO, separando por vírgulas os valores subsequentes

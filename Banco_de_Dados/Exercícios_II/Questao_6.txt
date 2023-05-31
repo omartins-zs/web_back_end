@@ -1,0 +1,4 @@
+Questão 6
+Você se juntou à equipe de desenvolvimento de um aplicativo de receitas. Ao se integrar na equipe, você repara que no banco de dados as senhas dos clientes estão salvas na tabela clientes de forma aberta, e podem ser acessadas por desenvolvedores. Sobre isso, uma afirmação adequada a fazer é:
+
+Resposta: A LGPD pode multar a empresa por não tratar com os devidos cuidados dados sensíveis
