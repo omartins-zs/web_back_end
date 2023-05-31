@@ -77,3 +77,11 @@
    - Controle de Acesso
    - Criar e adicionar Permissões
    - Criando View de SQL   
+
+11. **Índices:**
+
+   - Busca pelo Índice
+   - Árvore Binaria(Melhora de Performance na Busca)
+   - Criando View de SQL
+   - Comentarios
+   - Criando Indice   
