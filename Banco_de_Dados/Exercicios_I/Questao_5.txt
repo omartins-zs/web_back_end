@@ -1,0 +1,5 @@
+Questão 5
+Em um pronto socorro, cada paciente tem um médico responsável, e cada médico atende pelo menos dez pacientes num dia. Assim sendo, assinale a alternativa correta:
+
+Resposta: A tabela de médicos se relaciona com a tabela de pacientes usando a chave estrangeira id_medico, contida na tabela de pacientes.
+

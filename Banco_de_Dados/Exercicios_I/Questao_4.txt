@@ -1,0 +1,4 @@
+Questão 4
+Em um supermercado, uma tabela de marcas contém registros como Nestlé e Lacta, enquanto uma lista de produtos contém entradas como Nescau e Diamante negro. O relacionamento entre essas duas tabelas deve ser (considere o relacionamento de marca com produto, nesta ordem)
+
+Resposta: 1 para N

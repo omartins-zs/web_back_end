@@ -1,0 +1,4 @@
+Questão 2
+Considere que você está modelando uma tabela que representa as transações de cartão de crédito processadas por um sistema de meios de pagamento. Para o campo de "id”, que será chave primária da transação, qual tipo de dado é o mais adequado?
+
+Resposta: bigint

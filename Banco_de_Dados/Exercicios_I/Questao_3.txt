@@ -1,0 +1,4 @@
+Questão 3
+Em um banco de dados, o estado de aprovação de um pedido de reembolso é armazenado com um campo Booleano. Sobre esse tipo de dado, assinale a alternativa correta?
+
+Resposta: Ocupa 1 byte por registro
