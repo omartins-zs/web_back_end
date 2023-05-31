@@ -36,3 +36,9 @@
 - True or False
 - Ferramenta Online Visual Paradigm
 - Criar Diagrama de Relação de Entidades
+
+4. **Modelagem de relacionamentos:**
+
+   - Relacionamentos
+   - Tipos de Relacionamentos
+   - Chave Primaria e Estrangeira
