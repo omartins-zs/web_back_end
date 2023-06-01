@@ -9,7 +9,9 @@
 
 </div>
 
-
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=CURSO&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+</p>
 
 <h4 align="center"> 
 	🚧 README - Web Back End 👨‍💻 Em Andamento 🚀 🚧
@@ -21,8 +23,8 @@
 - [Algoritmos](./Algoritmos)
 - [Redes e Sistemas](./Redes_Sistemas)
 - [Introdução ao Java](./Introducao_Java)
-<!-- - [Introdução à Programação Orientada a Objetos em Java](./introducao-a-poo-em-java)
-- [Banco de Dados](./banco-de-dados) -->
+<!-- - [Introdução à Programação Orientada a Objetos em Java](./introducao-a-poo-em-java)-->
+- [Banco de Dados](./Banco_de_Dados) 
 
 Cada módulo possui uma pasta correspondente neste repositório, contendo os materiais, códigos-fonte e exercícios relacionados a ele. Você pode acessar cada módulo clicando nos respectivos links acima.
 
